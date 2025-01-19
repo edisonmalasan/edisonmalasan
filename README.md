@@ -82,15 +82,6 @@
 
 ### 
 
-<div align="center">
-  🔝 Top Contributed Repo
-</div>
-<div align="center">
-  ![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=edisonmalasan&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</div>
-
-###
-
 <br clear="both">
 
 <div align="center">
