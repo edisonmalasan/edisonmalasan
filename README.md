@@ -80,10 +80,13 @@
   <img src="https://github-profile-trophy.vercel.app?username=edisonmalasan&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###  🔝 Top Contributed Repo
+### 
+
 <div align="center">
+  🔝 Top Contributed Repo
   ![](https://github-contributor-stats.vercel.app/api?username=edisonmalasan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
+
 ###
 
 <br clear="both">
