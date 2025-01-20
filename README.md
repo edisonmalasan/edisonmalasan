@@ -37,8 +37,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="30" alt="pytorch logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="30" alt="netlify logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ae" height="30" alt="adobeaftereffects logo"  />
