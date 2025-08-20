@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! I'm Edison Malasan, a Web Developer and 2nd-year CS student at Saint Louis University, Baguio City.</h3>
+<h3 align="left">Hi 👋! I'm Edison Malasan, I have a passion for Web Development and 2nd-year CS student at Saint Louis University, Baguio City.</h3>
 
 ###
 
