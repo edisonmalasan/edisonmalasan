@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! I'm Edison Malasan, Full Stack Developer and a 3rd-year CS student at Saint Louis University, Baguio City.</h3>
+<h3 align="left">Hi 👋! I'm Edison Malasan, Full Stack Developer and a 4th-year CS student at Saint Louis University, Baguio City.</h3>
 
 ###
 
